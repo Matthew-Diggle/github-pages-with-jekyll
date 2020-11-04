@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Matthew-Diggle/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> I have just recently finished an intensive 12 week Python programming course, hosted by Generation UK&I. This github page will be used to present my progression within coding 
+> and to showcase the current projects I've been working on within my own time whilst also showing my development with future projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+> So far, I've been introduced to cloud engineering within AWS and have experience using SQL databases and queries. This experience came via an interactive, terminal based drink > app I created within my first 6 weeks of learning Python in the aforementioned course. 
 
 ### Markdown
 
